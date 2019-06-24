@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b02a7ac0550b9db5bf6cc18df593f4b4",
+    "revision": "9f92c18b9214a158111e9e0a81c2d5c8",
     "url": "/gitapi-organisation/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gitapi-organisation/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "82661fb71bba4e38bdcf",
+    "revision": "6b03c1031c99badd96a0",
     "url": "/gitapi-organisation/static/css/main.d552b6d4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gitapi-organisation/static/js/2.2df63ba7.chunk.js"
   },
   {
-    "revision": "82661fb71bba4e38bdcf",
-    "url": "/gitapi-organisation/static/js/main.3f1f46ec.chunk.js"
+    "revision": "6b03c1031c99badd96a0",
+    "url": "/gitapi-organisation/static/js/main.1e67a912.chunk.js"
   },
   {
     "revision": "8c332f20b78e3519c9f4",
