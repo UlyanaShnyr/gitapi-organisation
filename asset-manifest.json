@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gitapi-organisation/static/css/main.d552b6d4.chunk.css",
-    "main.js": "/gitapi-organisation/static/js/main.1e67a912.chunk.js",
-    "main.js.map": "/gitapi-organisation/static/js/main.1e67a912.chunk.js.map",
+    "main.js": "/gitapi-organisation/static/js/main.bc5a2cdb.chunk.js",
+    "main.js.map": "/gitapi-organisation/static/js/main.bc5a2cdb.chunk.js.map",
     "runtime~main.js": "/gitapi-organisation/static/js/runtime~main.e3d48e9e.js",
     "runtime~main.js.map": "/gitapi-organisation/static/js/runtime~main.e3d48e9e.js.map",
     "static/css/2.0624914a.chunk.css": "/gitapi-organisation/static/css/2.0624914a.chunk.css",
-    "static/js/2.2df63ba7.chunk.js": "/gitapi-organisation/static/js/2.2df63ba7.chunk.js",
-    "static/js/2.2df63ba7.chunk.js.map": "/gitapi-organisation/static/js/2.2df63ba7.chunk.js.map",
+    "static/js/2.0d3dcb1b.chunk.js": "/gitapi-organisation/static/js/2.0d3dcb1b.chunk.js",
+    "static/js/2.0d3dcb1b.chunk.js.map": "/gitapi-organisation/static/js/2.0d3dcb1b.chunk.js.map",
     "index.html": "/gitapi-organisation/index.html",
-    "precache-manifest.8abeed1ff3ed9bfa634e86f9de06a278.js": "/gitapi-organisation/precache-manifest.8abeed1ff3ed9bfa634e86f9de06a278.js",
+    "precache-manifest.5dcbc88d91e6985a1020c4183df7c0c2.js": "/gitapi-organisation/precache-manifest.5dcbc88d91e6985a1020c4183df7c0c2.js",
     "service-worker.js": "/gitapi-organisation/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/gitapi-organisation/static/css/2.0624914a.chunk.css.map",
     "static/css/main.d552b6d4.chunk.css.map": "/gitapi-organisation/static/css/main.d552b6d4.chunk.css.map"
